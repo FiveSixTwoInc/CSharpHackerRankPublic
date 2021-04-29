@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fst.typescript", "fst.typescript\fst.typescript.csproj", "{C1A78C99-E66F-40A6-B7AF-041FC2626B9B}"
 EndProject
@@ -22,6 +22,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hr.css", "hr.css\hr.css.csproj", "{7F3B42EA-05B6-4D30-860E-BCBEF75D64A0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hr.a_b_testing", "hr.responsive\hr.a_b_testing.csproj", "{685CDC53-BCDD-4C78-B800-0820133C1B75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fst.di", "fst.di\fst.di.csproj", "{886C9CC8-AFC8-4577-AFD2-2B591199F712}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,8 +71,16 @@ Global
 		{685CDC53-BCDD-4C78-B800-0820133C1B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{685CDC53-BCDD-4C78-B800-0820133C1B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{685CDC53-BCDD-4C78-B800-0820133C1B75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{886C9CC8-AFC8-4577-AFD2-2B591199F712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886C9CC8-AFC8-4577-AFD2-2B591199F712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886C9CC8-AFC8-4577-AFD2-2B591199F712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886C9CC8-AFC8-4577-AFD2-2B591199F712}.Release|Any CPU.Build.0 = Release|Any CPU
+
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D7EE6FA-1E4C-4661-B1C6-71F00480A69A}
 	EndGlobalSection
 EndGlobal
